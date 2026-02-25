@@ -1,0 +1,5 @@
+# simple progrsam 
+
+name = input("Enter your name: ")
+print("Hello", name)
+print("Welcome to Python Programming!")
